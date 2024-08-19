@@ -1,1 +1,1 @@
-# NN
+# Fully Connected Neural Network
